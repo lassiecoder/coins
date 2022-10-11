@@ -1,5 +1,5 @@
-# coins
 
+#  Coins - Mobile Application based on React Native
 
 ## Logo
 <img width="56" alt="image" src="https://user-images.githubusercontent.com/17312616/151238221-0f5c970a-f3f7-4a64-80ed-2cd65b32e7dd.png">
